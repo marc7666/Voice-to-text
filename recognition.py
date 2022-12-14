@@ -1,6 +1,5 @@
 """
 __author__ = Marc Cervera Rosell
-__company__ = Electrònica Saltó S.L.
 __date__ = 14/12/2022
 """
 
